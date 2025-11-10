@@ -7,9 +7,6 @@
 ### 📊 GitHub Stats
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkjangra97&show_icons=true&theme=radical)
 
-### GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=mkjangra97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ### Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=mkjangra97&color=blue&style=flat)
 

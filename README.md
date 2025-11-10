@@ -21,4 +21,4 @@ In these days, I'm currently working with [DevAffairs](https://devaffairs.com/) 
 ### Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=mkjangra97&color=blue&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=0000FF&width=600&lines=Keep+Coding!+Confusion+is+part+of+Programming...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=0000FF&width=600&lines=Keep+Coding+!+Confusion+is+part+of+Programming...)](https://git.io/typing-svg)

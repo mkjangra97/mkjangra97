@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Manish Kumar
 🚀 DevOps Engineer passionate about automation, cloud, and scalable infrastructure.
 
-### 🧠 What I'm Learning
-- Kubernetes (K8s)
-- Terraform & Infrastructure as Code (IaC)
-- CI/CD pipelines with GitHub Actions & Jenkins
-
 ### 🧰 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,nginx,git,githubactions,grafana,jenkins)
 
@@ -14,9 +9,6 @@
 
 ### GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=mkjangra97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### Currently Working With
-In these days, I'm currently working with [DevAffairs](https://devaffairs.com/) LLP Company. Devaffairs is a modern digital development studio focused on building high-quality, scalable, and user-centric software solutions.
 
 ### Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=mkjangra97&color=blue&style=flat)

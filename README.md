@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Manish Kumar
+🚀 DevOps Engineer passionate about automation, cloud, and scalable infrastructure.
 
-<!--
-**mkjangra97/mkjangra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 What I'm Learning
+- Kubernetes (K8s)
+- Terraform & Infrastructure as Code (IaC)
+- CI/CD pipelines with GitHub Actions & Jenkins
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+Docker | Kubernetes | Terraform | Linux | Nginx | AWS | Prometheus | Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishjangra97&show_icons=true&theme=radical)
+
+### 🌱 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/manishjangra97/) • [Portfolio](https://manishjangra.dev) • [X](https://x.com/manishjangra97) • [Reddit](https://www.reddit.com/user/manishjangra97/)

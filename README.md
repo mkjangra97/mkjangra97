@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&color=blue&width=435&lines=Hi+there!+I'm+Manish+Kumar+👋;🚀+DevOps+Engineer+passionate+about+automation,+cloud+and+scalable+infrastructure.)](https://git.io/typing-svg)
-
 # 👋 Hi, I'm Manish Kumar
 🚀 DevOps Engineer passionate about automation, cloud, and scalable infrastructure.
 
@@ -22,3 +20,5 @@ In these days, I'm currently working with [DevAffairs](https://devaffairs.com/) 
 
 ### Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=mkjangra97&color=blue&style=flat)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=0000FF&width=600&lines=Hi+there!+I'm+Manish+👋;DevOps+Engineer+%7C+Automation+Lover;Keep+Coding!+Confusion+is+part+of+Programming...)](https://git.io/typing-svg)

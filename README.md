@@ -1,5 +1,5 @@
-# Hi 👋, I'm Manish Kumar  
-### 🚀 DevOps Engineer | AWS | Docker | CI/CD | Infrastructure Automation
+# Hi 👋, I'm Manish Kumar
+### 🚀 DevOps Engineer | AWS | Docker | CI/CD | DevSecOps
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20views&color=24292e&style=flat-square" alt="iammanishjangra" />
@@ -9,33 +9,37 @@
 
 ## 💫 About Me
 
-I am a hands-on DevOps Engineer focused on automating infrastructure and building production-ready CI/CD pipelines.
+I am a hands-on DevOps Engineer focused on automating infrastructure, building production-ready CI/CD pipelines, and integrating security practices into every stage of the deployment process.
 
-I enjoy working on real-world deployments involving containerization, Infrastructure as Code, and cloud automation.
-
-- 🔭 Currently building automated AWS deployments using Terraform  
-- ⚙️ Implementing CI/CD pipelines using GitHub Actions  
-- 🐳 Containerizing full-stack applications using Docker  
-- 🌱 Continuously learning advanced DevOps & Cloud practices  
+- 🔭 Currently building automated AWS deployments using Terraform
+- 🔐 Implementing DevSecOps pipelines with SonarQube, Trivy & OWASP ZAP
+- ⚙️ Orchestrating CI/CD workflows using Jenkins & GitHub Actions
+- 🐳 Containerizing full-stack applications using Docker
+- 🌱 Continuously learning advanced DevOps & Cloud practices
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Dockerized Full Stack Application
+### 🔐 End-to-End DevSecOps CI/CD Pipeline ⭐
+- 7-stage Jenkins pipeline — Checkout → Build → SAST → SCA → Deploy → DAST → Notify
+- Static analysis using **SonarQube** for code quality gates
+- Vulnerability scanning using **Trivy** on filesystem & dependencies
+- Dynamic security testing using **OWASP ZAP** on live deployed app
+- Automated email reports with ZAP artifacts after every build
+- [View Project →](https://github.com/iammanishjangra/deploy-devsecops-vite-project-jenkins)
+
+### 🔹 Dockerized Full-Stack Application with AWS & Terraform
 - Multi-tier architecture (React + Node.js + MySQL + Nginx)
-- Containerized using Docker
-- Automated deployment using GitHub Actions
-- Infrastructure provisioning using Terraform
+- Infrastructure provisioned using Terraform (IaC)
+- Automated deployment via GitHub Actions CI/CD pipeline
+- [View Project →](https://github.com/iammanishjangra/dockerized-todo-fullstack)
 
 ### 🔹 Automated React Deployment on AWS
 - EC2 infrastructure setup using Terraform
-- Docker + Nginx configuration
-- CI/CD implementation for continuous deployment
-
-### 🔹 Dockerized WordPress Stack
-- Multi-container architecture using Docker Compose
-- Reverse proxy & database configuration
+- Docker + Nginx reverse proxy configuration
+- Full CI/CD pipeline for continuous deployment
+- [View Project →](https://github.com/iammanishjangra/automated-react-deployment-aws)
 
 ---
 
@@ -56,7 +60,7 @@ I enjoy working on real-world deployments involving containerization, Infrastruc
 ### 📦 Containerization
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### ⚙️ Infrastructure as Code
@@ -71,6 +75,13 @@ I enjoy working on real-world deployments involving containerization, Infrastruc
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
+### 🔐 DevSecOps
+<p>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
 ---
 
 ## 📫 Connect With Me
@@ -82,4 +93,4 @@ I enjoy working on real-world deployments involving containerization, Infrastruc
 
 ---
 
-⭐ *“Automating infrastructure, one deployment at a time.”*
+⭐ *"Ship fast, stay secure — automate everything in between."*
